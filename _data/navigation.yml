@@ -1,0 +1,14 @@
+# main links links
+main:
+
+  - title: "PUBLICATIONS"
+    url: /publications/
+
+  - title: "EXPERIENCE"
+    url: /experience/    
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "UTDA"
+    url: http://www.cerc.utexas.edu/utda/
