@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "HOME"
 title_separator          : "-"
-name                     : &name "Wei Ye"
-description              : &description "Research Scientist at Facebook"
+name                     : &name "Meng Liu (刘檬)"
+description              : &description "Assistant Professor"
 url                      : https://liumengbjut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liumengbjut.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Ye"
+  name             : "Meng Liu"
   avatar           : "profile-crop.jpg"
-  bio              : "Research Scientist @ Facebook"
-  location         : "Austin, Texas"
+  bio              : "特聘副教授 @ 北京工业大学"
+  location         : "北京"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wy5I3fwAAAAJ"
-  email            : "weiye@utexas.edu"
+  email            : "liumengbjut@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ywwwer"
+  github           : "liumengbjut"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "wye"
+  linkedin         : 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
