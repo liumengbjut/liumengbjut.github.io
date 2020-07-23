@@ -19,16 +19,14 @@ You can find my articles on <a href="https://scholar.google.com/citations?user=1
    * 通讯作者
    * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Grenoble, France, Mar 9-13, 2020.
 
-
    C2. [Optimization of clock mesh based on wire sizing variation](https://ieeexplore.ieee.org/document/8368803)
    * **Best Paper Nomination**
    * 第一作者
    * International SoC Design Conference (ISOCC), Seoul, South Korea, Nov 5-8, 2017.
           
-C7. Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection 
-   * <a href="/publications/papers/HSD_DATE2019_Ye.pdf" style="color:#3793ae">preprint</a>
-   * **Wei Ye**, Mohamed Baker Alawieh, Meng Li, Yibo Lin, and David Z. Pan 
-   * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019.
+   C1. [Obstacle-aware symmetrical clock tree construction](https://ieeexplore.ieee.org/document/8052973) 
+   * 第一作者
+   * IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS), Boston, MA, USA, Aug 6-9, 2017.
           
 C6. [Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation](https://doi.org/10.1145/3287624.3287688) 
    * <a href="/publications/papers/DFM_ASPDAC2019_Ye.pdf" style="color:#3793ae">preprint</a>
