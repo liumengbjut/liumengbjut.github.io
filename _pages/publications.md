@@ -14,16 +14,16 @@ You can find my articles on <a href="https://scholar.google.com/citations?user=1
 代表性论文
 -------
 
-   [HcveAcc: a high-performance and energy-efficient accelerator for tracking task in VSLAM system]
+   C3. [HcveAcc: a high-performance and energy-efficient accelerator for tracking task in VSLAM system](https://dl.acm.org/doi/abs/10.5555/3408352.3408397) 
    * <a href="/publications/papers/DATE2020.pdf" style="color:#3793ae">preprint</a> 
-   * 通信作者
+   * 通讯作者
    * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Grenoble, France, Mar 9-13, 2020.
 
 
-C8. [LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317852) 
-   * <a href="/publications/papers/DFM_DAC2019_Ye.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Nomination**
-   * **Wei Ye**, Mohamed Baker Alawieh, Yibo Lin, and David Z. Pan 
-   * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
+   C2. [Optimization of clock mesh based on wire sizing variation](https://ieeexplore.ieee.org/document/8368803)
+   * **Best Paper Nomination**
+   * 第一作者
+   * International SoC Design Conference (ISOCC), Seoul, South Korea, Nov 5-8, 2017.
           
 C7. Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection 
    * <a href="/publications/papers/HSD_DATE2019_Ye.pdf" style="color:#3793ae">preprint</a>
