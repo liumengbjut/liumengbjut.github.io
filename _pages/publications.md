@@ -28,32 +28,10 @@ You can find my articles on <a href="https://scholar.google.com/citations?user=1
    * 第一作者
    * IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS), Boston, MA, USA, Aug 6-9, 2017.
           
-C6. [Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation](https://doi.org/10.1145/3287624.3287688) 
-   * <a href="/publications/papers/DFM_ASPDAC2019_Ye.pdf" style="color:#3793ae">preprint</a>
-   * **Wei Ye**, Mohamed Baker Alawieh, Yibo Lin, and David Z. Pan 
-   * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
+   J2. Progress in a novel architecture for high performance processing
+   * 通讯作者 
+   * Japanese Journal of Applied Physics 57 (4S), 04FA03, 2018
           
-C5. [LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization](https://doi.org/10.1145/3287624.3288746) 
-   * <a href="/publications/papers/HSD_ASPDAC2019_Ye.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
-   * **Wei Ye**, Yibo Lin, Meng Li, Qiang Liu, and David Z. Pan 
-   * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
-
-C4. [Machine Learning for Yield Learning and Optimization](https://doi.org/10.1109/TEST.2018.8624733) 
-   * <a href="/publications/papers/DFM_ITC2018_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
-   * Yibo Lin, Mohamed Baker Alawieh, **Wei Ye**, and David Z. Pan 
-   * IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018.
-
-C3. [Power Grid Reduction by Sparse Convex Optimization](http://doi.acm.org/10.1145/3177540.3178247) 
-   * <a href="/publications/papers/PG_ISPD18_Ye.pdf" style="color:#3793ae">preprint</a>
-   * **Wei Ye**, Meng Li, Kai Zhong, Bei Yu, and David Z. Pan 
-   * ACM International Symposium on Physical Design (ISPD), Monterey, California, Mar 25-28, 2018.
-          
-C2. [Placement Mitigation Techniques for Power Grid Electromigration](https://doi.org/10.1109/ISLPED.2017.8009178) 
-   * <a href="/publications/papers/DFMP_ISLPED2017_Ye.pdf" style="color:#3793ae">preprint</a>
-   * **Wei Ye**, Yibo Lin, Xiaoqing Xu, Wuxi Li, Yiwei Fu, Yongsheng Sun, Canhui Zhan, and David Z. Pan 
-   * IEEE International Symposium on Low Power Electronics and Design (ISLPED), Taipei, Jul 24-26, 2017.
-
-C1. [Standard Cell Layout Regularity and Pin Access Optimization Considering Middle-of-Line](http://doi.acm.org/10.1145/2742060.2742084) 
-   * <a href="/publications/papers/CELL_GLSVLSI15_Ye.pdf" style="color:#3793ae">preprint</a>
-   * **Wei Ye**, Bei Yu, Yong-Chan Ban, Lars Liebmann, and David Z. Pan 
-   * ACM Great Lakes Symposium on VLSI (GLSVLSI),  Pittsburgh, PA, USA, May 20-22, 2015.
+   J1. A novel obstacle-aware multiple fan-out symmetrical clock tree synthesis 
+   * 第一作者
+   * IEICE Electronics Express 14 (20), 20170935-20170935
