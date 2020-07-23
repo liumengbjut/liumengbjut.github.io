@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HOME"
+title                    : "Meng Liu"
 title_separator          : "-"
-name                     : &name "Meng Liu (刘檬)"
+name                     : &name "Meng Liu （刘檬）"
 description              : &description "Assistant Professor"
 url                      : https://liumengbjut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meng Liu (刘檬)"
+  name             : "Meng Liu （刘檬）"
   avatar           : "profile-crop.jpg"
-  bio              : "助理教授 @ 北京工业大学"
+  bio              : "助理教授 @ 北京工业大学 微电子学院"
   location         : "北京"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=wy5I3fwAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=wy5I3fwAAAAJ"
   email            : "liumengbjut@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
