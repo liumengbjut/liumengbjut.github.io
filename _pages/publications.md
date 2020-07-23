@@ -28,10 +28,10 @@ You can find my articles on <a href="https://scholar.google.com/citations?user=1
    * 第一作者
    * IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS), Boston, MA, USA, Aug 6-9, 2017.
           
-   J2. Progress in a novel architecture for high performance processing
+   J2. [Progress in a novel architecture for high performance processing](https://iopscience.iop.org/article/10.7567/JJAP.57.04FA03/meta)
    * 通讯作者 
    * Japanese Journal of Applied Physics 57 (4S), 04FA03, 2018
           
-   J1. A novel obstacle-aware multiple fan-out symmetrical clock tree synthesis 
+   J1. [A novel obstacle-aware multiple fan-out symmetrical clock tree synthesis](https://www.jstage.jst.go.jp/article/elex/14/20/14_14.20170935/_article) 
    * 第一作者
    * IEICE Electronics Express 14 (20), 20170935-20170935
