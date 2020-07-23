@@ -7,21 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=wy5I3fwAAAAJ">my Google Scholar profile</a>.
+You can find my articles on <a href="https://scholar.google.com/citations?user=1fnbFMIAAAAJ&hl=zh-CN&authuser=3">my Google Scholar profile</a>.
 {: .notice--info}
-
-
-Book Chapter
--------
-B1. Dealing with Aging and Yield in Scaled Technologies
-   * **Wei Ye**, Mohamed Baker Alawieh, Che-Lun Hsu, Yibo Lin, and David Z. Pan
-   * In: Dependable Embedded Systems. Springer, 2019
-
-Journal Articles
--------
-J1. Generative Learning in VLSI Design for Manufacturability: Current Status and Future Directions
-   * Yibo Lin, Mohamed Baker Alawieh, **Wei Ye**, and David Z. Pan
-   * Journal of Microelectronic Manufacturing (JOMM), 2019 (Invited)
 
             
 Conference Papers
