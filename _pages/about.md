@@ -35,6 +35,8 @@ redirect_from:
 
 News Update:
 
+2024年计划招学硕1名，专硕1名。
+
 2023-9     祝贺论文被IEEE Embedded Systems Letters收录！
 
 2023-8     祝贺论文被CASES2023录用！
